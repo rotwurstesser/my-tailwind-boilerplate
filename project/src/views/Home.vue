@@ -1,7 +1,9 @@
 <template>
   <div class="home">
-    <span class="text-center bg-black p-8 text-white">Does tailwind work?</span>
-    <HelloWorld msg="Welcome to Your Vue.js App" />
+    <span class="text-center bg-black p-8 text-white block">
+      Styles by tailwind
+    </span>
+    <HelloWorld msg="component props" />
   </div>
 </template>
 
